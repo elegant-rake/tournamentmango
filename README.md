@@ -6,7 +6,7 @@ You can also create and manage events and tournaments. An event is essentially a
 
 Currently, the bracket generator supports single elimination, double elimination, free for all, group stage (round robin), and masters (a FFA subtype).
 
-# Installation
+# Installation 
 
 * Clone this repository
 * npm install
